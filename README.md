@@ -1,5 +1,9 @@
-# rebar_test
-> just for a test
+rebar_test
+=====
 
-> erlang rebar3 test project
+An OTP application
 
+Build
+-----
+
+    $ rebar3 compile
